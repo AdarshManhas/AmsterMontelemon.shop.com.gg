@@ -1,0 +1,8 @@
+
+body{margin:0;background:#0f0f0f;color:white;font-family:Segoe UI}
+nav{padding:20px;background:#111;display:flex;justify-content:space-between}
+a{color:white;margin-right:15px;text-decoration:none}
+.card{background:#1a1a1a;padding:20px;border-radius:14px;margin:20px 0;transition:.3s}
+.card:hover{transform:translateY(-4px);box-shadow:0 0 15px rgba(168,85,247,.5)}
+button{padding:8px 14px;border:none;border-radius:8px;background:#a855f7;color:white;cursor:pointer}
+footer{padding:40px;background:#111;text-align:center;margin-top:40px}
